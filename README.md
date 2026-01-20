@@ -1,1 +1,1 @@
-This is a simple [OmegaCLoud.ai](https://omegacloud.ai) starter project.
+This is a simple [OmegaCloud.ai](https://omegacloud.ai) starter project.
